@@ -1,4 +1,5 @@
 :Start
+title Install Wizard
 echo Welcome to Install Wizard
 pause
 :Show “Press any key to continue…”
